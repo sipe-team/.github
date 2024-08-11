@@ -1,6 +1,6 @@
 ![banner](../images/banner.png)
 
-# 현직 개발자들이 함께 경험을 쌓으며 성장하는 IT 커뮤니티 SIPE
+# SIPE
 
 <p align="center">
   <a href="https://www.dnd.ac">
