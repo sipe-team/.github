@@ -1,7 +1,7 @@
 ![banner](../images/banner.png)
 
 <p align="center">
-  <a href="https://www.dnd.ac">
+  <a href="https://sipe.team">
     <img src="https://img.shields.io/badge/HomePage-sipe.team-01FF13?style=for-the-badge&link=https%3A%2F%2Fsipe.team" />
   </a>
 </p>
